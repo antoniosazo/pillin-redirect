@@ -1,0 +1,5 @@
+title: Pillin Redirect
+baseurl: ""
+url: "https://www.pillin.cl"
+plugins:
+  - jekyll-redirect-from
